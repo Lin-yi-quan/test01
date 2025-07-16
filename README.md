@@ -28,5 +28,5 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa<br>
 <hr>
 [測試]  (java/Student.html)
 <hr>
-[貓咪]!(jpg/picture)
+[貓咪圖片 ]!(jpg/picture)
 
