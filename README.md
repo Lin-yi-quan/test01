@@ -27,3 +27,6 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa<br>
 [測試] (java/java01.jar)
 <hr>
 [測試]  (java/Student.html)
+<hr>
+[貓咪]!(jpg/picture)
+
