@@ -24,6 +24,6 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa<br>
 <hr>
 [youtuble] (www.youtube.com)
 <hr>
-[測試] (java.java01.jar)
+[測試] (java/java01.jar)
 <hr>
-[測試]  (java.Student.html)
+[測試]  (java/Student.html)
